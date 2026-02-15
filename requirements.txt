@@ -3,7 +3,6 @@ tensorflow
 numpy
 opencv-python-headless
 Pillow
-inference-sdk
 tensorflow==2.18.0
 absl-py==2.1.0
 astunparse==1.6.3
